@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Hlvr13/git-hooks#readme",
   "devDependencies": {
-    "husky": "^4.2.5"
+    "husky": "^8.0.3"
   }
 }
